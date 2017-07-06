@@ -1,0 +1,19 @@
+Creating test database for alias 'default'...
+Destroying test database for alias 'default'...
+Name                                  Stmts   Miss  Cover
+---------------------------------------------------------
+activity/__init__.py                      0      0   100%
+activity/admin.py                         1      0   100%
+activity/apps.py                          3      0   100%
+activity/migrations/0001_initial.py       6      0   100%
+activity/migrations/__init__.py           0      0   100%
+activity/models.py                       26      0   100%
+activity/tests.py                        64      0   100%
+activity/views.py                        33      1    97%
+activity_store/__init__.py                0      0   100%
+activity_store/settings.py               18      0   100%
+activity_store/urls.py                    3      3     0%
+activity_store/wsgi.py                    4      4     0%
+manage.py                                13      6    54%
+---------------------------------------------------------
+TOTAL                                   171     14    92%
